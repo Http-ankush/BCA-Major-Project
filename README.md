@@ -1,5 +1,9 @@
 # 🚖 Ola Data Analysis Project
 
+
+<img width="1348" height="764" alt="image" src="https://github.com/user-attachments/assets/67f59b80-1772-4e9f-9599-48e495a64480" />
+
+
 ## 📌 Project Overview
 
 This project focuses on analyzing Ola ride-booking data to uncover valuable business insights related to bookings, cancellations, revenue generation, customer behavior, vehicle performance, payment preferences, and customer satisfaction.
