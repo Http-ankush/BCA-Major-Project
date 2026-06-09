@@ -142,7 +142,9 @@ Some major insights identified:
 
 ## 👨‍💻 Author
 
-Mohit Raaz
+ANKUSH  KUMAR SINGH
+MOHIT KUMAR
+SURAJ KUMAR SINGH
 
 Data Analytics Project using Excel, Python, and Power BI.
 
